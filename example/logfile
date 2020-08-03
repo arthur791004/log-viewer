@@ -1,0 +1,17 @@
+string log would transform to message!
+{"message":"env : development","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.823Z"}
+{"message":"server is litening on ","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 1","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 2","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 3","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 4","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 5","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 6","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 7","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 8","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 9","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 10","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 11","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 12","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 13","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}
+{"message":"example 14","log":{"level":"info","logger":"/app/dist/app.js"},"@timestamp":"2020-07-31T10:32:03.824Z"}

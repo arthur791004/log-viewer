@@ -1,0 +1,41 @@
+{
+  "name": "@arthur791004/log-viewer",
+  "version": "1.0.5",
+  "description": "Terminal based log viewer",
+  "main": "./src/index.js",
+  "bin": "./bin/log-viewer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur791004/log-viewer.git"
+  },
+  "author": "Arthur <arthur791004@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node bin/log-viewer.js -f example/logfile -c example/config.json",
+    "test": "echo test",
+    "release": "yarn publish --access public"
+  },
+  "dependencies": {
+    "commander": "6.0.0",
+    "ink": "3.0.3",
+    "lodash": "4.17.19",
+    "react": "16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.11.0",
+    "@babel/node": "7.10.5",
+    "@babel/plugin-proposal-class-properties": "7.10.4",
+    "@babel/plugin-proposal-object-rest-spread": "7.11.0",
+    "@babel/preset-env": "7.11.0",
+    "@babel/preset-react": "7.10.4",
+    "babel-plugin-module-resolver": "4.0.0",
+    "prettier": "2.0.5"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "headers": ["@timestamp", { "key": "log.level", "name": "level" }, "message"]
+}
