@@ -1341,6 +1341,14 @@ inherits@2:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
+ink-text-input@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/ink-text-input/-/ink-text-input-4.0.0.tgz#f1309c6d58ce53ae9ad0bc3de23560294079ffa0"
+  integrity sha512-mzftl3MRUYEi4/lQQzjUGgmPtPIQgGbeedp6G9cDIGTQPMOiaklrCX8zWi9aY5n0OKoJpjmi3TR6eRBNNhCP8Q==
+  dependencies:
+    chalk "^4.1.0"
+    type-fest "^0.15.1"
+
 ink@3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/ink/-/ink-3.0.3.tgz#8540a6c7874bcadaebe8017164c35c5a2150bbe2"
@@ -1898,6 +1906,11 @@ type-fest@^0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.12.0.tgz#f57a27ab81c68d136a51fd71467eff94157fa1ee"
   integrity sha512-53RyidyjvkGpnWPMF9bQgFtWp+Sl8O2Rp13VavmJgfAP9WWG6q6TkrKU8iyJdnwnfgHI6k2hTlgqH4aSdjoTbg==
+
+type-fest@^0.15.1:
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.15.1.tgz#d2c4e73d3e4a53cf1a906396dd460a1c5178ca00"
+  integrity sha512-n+UXrN8i5ioo7kqT/nF8xsEzLaqFra7k32SEsSPwvXVGyAcRgV/FUQN/sgfptJTR1oRmmq7z4IXMFSM7im7C9A==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"

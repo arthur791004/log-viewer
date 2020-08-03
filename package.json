@@ -18,6 +18,7 @@
   "dependencies": {
     "commander": "6.0.0",
     "ink": "3.0.3",
+    "ink-text-input": "4.0.0",
     "lodash": "4.17.19",
     "react": "16.13.1"
   },

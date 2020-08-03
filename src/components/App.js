@@ -1,5 +1,4 @@
 import React from 'react';
-import { DEFAULT_HEADERS } from '@/constants';
 import Table from './Table';
 
 const transformHeaders = (headers) =>
